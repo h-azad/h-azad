@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-azad" alt="h-azad" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://hossainazad.com](https://hossainazad.com)
 
-- 📝 I regularly write articles on [https://blog.hossainazad.com](https://blog.hossainazad.com)
-
-- 📫 How to reach me **contact@hossainazad.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
